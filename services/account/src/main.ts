@@ -21,6 +21,6 @@ async function bootstrap() {
     },
   );
   await app.listen();
-  console.log("hello")
+  console.log("hello");
 }
 bootstrap();
